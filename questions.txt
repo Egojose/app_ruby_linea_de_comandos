@@ -1,10 +1,10 @@
-Hemoglobina->¿Cual es la proteína que se encarga de transportar el oxigeno a los tejidos?
-Tac polimerasa->¿Enzima que en la pcr permite que las cadenas de DNA se puedan replicar?
-Colera->¿Enfermedad producida por Vibrio cholerae?
-Riñon->¿Organo encargado de producir la orina para excretar productos toxicos del cuerpo?
-Nefrona->¿Celula del riñon necesaria para la producción de la orina?
+﻿Hemoglobina->Cual es la proteína que se encarga de transportar el oxigeno a los tejidos?
+Tac polimerasa->Enzima que en la pcr permite que las cadenas de DNA se puedan replicar?
+Colera->Enfermedad producida por Vibrio cholerae?
+Riñon->Organo encargado de producir la orina para excretar productos toxicos del cuerpo?
+Nefrona->Celula del riñon necesaria para la produccion de la orina?
 Ciclo de Krebs->Con que nombre se conoce el ciclo que permite la generacion de moleculas de ATP?
 Gram->Nombre de la coloracion que permite diferenciar bacterias ___positivas y ___negativas
 Tuberculosis->La bacteria Mycobacteriun tuberculosis es la causante de la enfermedad pulmonar conocida como
 Nucleo->Almacena en la célula la información genética
-Plaquetas->Son las encargadas de formar el tapón hemostatico durante la hemostasia primaria
+Plaquetas->Son las encargadas de formar el tapon hemostatico durante la hemostasia primaria
