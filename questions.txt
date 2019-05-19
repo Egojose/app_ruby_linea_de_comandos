@@ -1,4 +1,5 @@
-﻿Eritrocito->Celula que transporta el oxigeno en la sangre
+﻿
+
 Tac polimerasa->Enzima que en la pcr permite que las cadenas de DNA se puedan replicar?
 Colera->Enfermedad producida por Vibrio cholerae?
 Rinion->Organo encargado de producir la orina para excretar productos toxicos del cuerpo?
