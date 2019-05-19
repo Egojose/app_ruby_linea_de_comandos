@@ -7,4 +7,4 @@ Ciclo de Krebs->Con que nombre se conoce el ciclo que permite la generacion de m
 Gram->Nombre de la coloracion que permite diferenciar bacterias ___positivas y ___negativas
 Tuberculosis->La bacteria Mycobacteriun tuberculosis es la causante de la enfermedad pulmonar conocida como
 Nucleo->Almacena en la célula la información genética
-Plaquetas->Son las encargadas de formar el tapón hemostático durante la hemostasia primaria
+Plaquetas->Son las encargadas de formar el tapón hemostatico durante la hemostasia primaria
