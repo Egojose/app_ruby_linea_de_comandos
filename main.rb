@@ -10,8 +10,8 @@ class Main
 
   def iniciar
     ans = 's'
-    puts "#{'-' * 80}\n Bienvenido a reto 5, Para jugar, solo ingresa el termino\n" \
-         " correcto para cada una de las definiciones, Listo? Vamos! (Presiona q para salir)\n #{'-' * 80}\n\n"
+    puts "#{'-' * 80}\n Bienvenido a reto 5, Para jugar solo debes ingresar la respuesta\n" \
+         " correcta para cada una de las definiciones. Listo? (Presiona q para salir)\n #{'-' * 80}\n\n"
 
     while ans != 'q' && @q1.check_questions
 
@@ -22,7 +22,7 @@ class Main
         puts "\nAdivinar:\n\n"
         ans = gets.chomp
         break if ans == 'q'
-        puts @q1.check_ans(ans) ? "\n#{'*' * 40}Correcto!#{'*' * 40}\n\n" : "\n#{'*' * 40}Incorrecto!, Trata de nuevo#{'*' * 40}\n\n"
+        puts @q1.check_ans(ans) ? "\n#{'*' * 40}Correcto!#{'*' * 40}\n\n" : "\n#{'*' * 40}Oops!, Intenta de nuevo#{'*' * 40}\n\n"
       end
 
     end
