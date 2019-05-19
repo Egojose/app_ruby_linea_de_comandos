@@ -16,7 +16,7 @@ class Question
 
   def new_question
     if !@question_list.empty?
-      @seed = rand(1..@items) until @question_list.key?(@keys[@seed])
+      @seed = rand(0..@items) until @question_list.key?(@keys[@seed])
       puts '* ' + @question_list[@keys[@seed]]
       @current_ans = @keys[@seed]
       @question_list.delete(@keys[@seed])

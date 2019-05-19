@@ -15,7 +15,7 @@ class Main
 
     while ans != 'q' && @q1.check_questions
 
-      puts "Definición\n\n"
+      puts "Pregunta\n\n"
       @q1.new_question
 
       until @q1.check_ans(ans) || ans == 'q'
